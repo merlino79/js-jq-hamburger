@@ -1,7 +1,19 @@
-var names = "ale";
-console.log(names);
+$(document).ready(function() {
+    //console.log('DOM');
+
+    $("#titolo").addClass("red");
 
 
 
 
-$('#titolo').addClass('red');
+
+
+
+
+
+
+
+
+
+});
+console.log("prova")
