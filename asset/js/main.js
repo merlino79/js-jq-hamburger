@@ -1,7 +1,40 @@
 $(document).ready(function() {
     //console.log('DOM');
 
-    $("#titolo").addClass("red");
+    $(".header-right").click(function() {
+
+        $(".hamburger-menu").show(2000); //compare al click//senza funzine all'avvio parte automaticamente // e non va bene
+
+        $(".close").click(function() {
+
+            $(".hamburger-menu").hide();
+
+        })
+
+
+
+
+
+
+
+    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -16,4 +49,4 @@ $(document).ready(function() {
 
 
 });
-console.log("prova")
+//console.log("prova")
