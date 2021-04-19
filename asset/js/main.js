@@ -3,7 +3,7 @@ $(document).ready(function() {
 
     $(".header-right").click(function() {
 
-        $(".hamburger-menu").show(2000); //compare al click//senza funzine all'avvio parte automaticamente // e non va bene
+        $(".hamburger-menu").show(500); //compare al click//senza funzine all'avvio parte automaticamente // e non va bene
 
         $(".close").click(function() {
 

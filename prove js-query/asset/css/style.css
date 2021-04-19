@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #bd8216;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: lightgreen;
+}
+
+.ac-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.titolo {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.color-title {
+    color: red;
+}
+
+#titolo-1 {
+    margin-top: 20px;
+}
+
+.color-title1 {
+    color: blue;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.program {
+    margin-top: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.spazio {
+    margin-top: 20px;
+}
+
+.fantasia {
+    background-color: #8ef098;
+}
